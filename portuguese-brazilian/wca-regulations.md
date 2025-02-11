@@ -299,7 +299,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 9t3) Se qualquer mudança ocorrer ao resultado de um competidor, de modo que qualquer outro competidor não devesse ter avançado para a próxima rodada, o resultado do segundo competidor não poderá ser removido.
 - 9u) Uma competição é considerada terminada se todos os seguintes requisitos estiverem atendidos simultaneamente:
     - 9u1) Todas as rodadas presentes no site da WCA estiverem completas.
-    - 9u2) O Delegado da WCA tiver anunciado o fim da competição. Se o Delegado da WCA não anunciar o fim da competição, pelo menos uma das seguintes condições é necessária:
+    - 9u2) O Delegado da WCA tiver anunciado o fim da competição. Se o Delegado da WCA não anunciar o fim da competição, pelo menos uma das seguintes condições é necessária (o que ocorrer primeiro):
         - 9u2a) Todos os Delegados da WCA listados tiverem deixado permanentemente o local.
         - 9u2b) O fim do último dia da competição tiver sido alcançado.
 
