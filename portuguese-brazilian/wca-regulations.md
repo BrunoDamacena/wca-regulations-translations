@@ -299,7 +299,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 9t3) Se qualquer mudança ocorrer ao resultado de um competidor, de modo que qualquer outro competidor não devesse ter avançado para a próxima rodada, o resultado do segundo competidor não poderá ser removido.
 - 9u) Uma competição é considerada terminada se todos os seguintes requisitos estiverem atendidos simultaneamente:
     - 9u1) Todas as rodadas presentes no site da WCA estiverem completas.
-    - 9u2) O Delegado da WCA tiver anunciado o fim da competição. Se o Delegado da WCA não anunciar o fim da competição, pelo menos uma das seguintes condições é necessária (o que ocorrer primeiro):
+    - 9u2) O Delegado da WCA tiver anunciado o fim da competição. Se o Delegado da WCA não anunciar o fim da competição, pelo menos uma das seguintes condições é necessária (a que ocorrer primeiro):
         - 9u2a) Todos os Delegados da WCA listados tiverem deixado permanentemente o local.
         - 9u2b) O fim do último dia da competição tiver sido alcançado.
 
@@ -321,7 +321,7 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
     - 10f4) Square-1: no máximo 45 graus (U/D) ou 90 graus (/).
 - 10h) Quebra-cabeças não especificados neste artigo são julgados de acordo com o estado resolvido geralmente aceito como objetivo do quebra-cabeça.
     - 10h1) O estado resolvido do Clock é obtido quando todos os dezoito relógios internos apontam para 12 horas.
-         - 10h1a) Os mostradores internos do Clock que não apontam claramente para um marcador de hora específico são considerados como apontando para o marcador de hora mais próximo.
+         - 10h1a) Os relógios internos do Clock que não apontam claramente para um marcador de hora específico são considerados como apontando para o marcador de hora mais próximo.
 
 
 ## <article-11><incidents><incidents> Artigo 11: Incidentes
@@ -339,23 +339,23 @@ Nota: Como os números dos artigos não são atualizados quando algum deles é e
 - 11f) Decisões sobre um incidente podem ser baseadas em evidência de vídeo ou fotografia, a critério do Delegado da WCA.
     - 11f1) Para vídeos e formas semelhantes de evidência gravada, é recomendável que sejam analisados em tempo real. Exceção: a análise em câmera lenta ou quadro a quadro pode ser usada nas seguintes circunstâncias:
         - 11f1a) O resultado individual é um recorde regional ou um recorde pessoal entre os 50 melhores resultados do ranking mundial.
-        - 11f1b) A média ou o mean do resultado faz parte de um recorde regional ou um recorde pessoal entre os 50 melhores resultados do ranking mundial.
-        - 11f1c) O resultado é alcançado em uma rodada final de um Campeonato Nacional, Campeonato Continental ou Campeonato Mundial.
-        - 11f1d) Para apoiar a remoção de qualquer penalidade originalmente aplicada pelo juiz ou Delegado da WCA, ver Regra 11f2a.
-    - 11f2) Evidências obtidas por meio de análise em câmera lenta ou quadro a quadro podem ser usadas apenas para apoiar as seguintes decisões:
+        - 11f1b) A média em que o resultado faz parte é um recorde regional ou um recorde pessoal entre os 50 melhores resultados do ranking mundial.
+        - 11f1c) O resultado foi alcançado em uma rodada final de um Campeonato Nacional, Campeonato Continental ou Campeonato Mundial.
+        - 11f1d) Para apoiar a remoção de qualquer penalidade originalmente aplicada pelo juiz ou Delegado da WCA, ver [Regra 11f2a](regulations:regulation:11f2a).
+    - 11f2) Evidências obtidas por meio de análise em câmera lenta ou quadro a quadro só podem ser usadas apenas para apoiar as seguintes decisões:
         - 11f2a) A remoção de qualquer penalidade originalmente aplicada pelo juiz ou Delegado da WCA.
-        - 11f2b) A aplicação de uma penalidade de acordo com a Regra A3c1, Regra A4b ou Regra A4b1.
-        - 11f2c) Para investigar trapaça (ver Regra 2k).
+        - 11f2b) A aplicação de uma penalidade de acordo com a [Regra A3c1](regulations:regulation:A3c1), [Regra A4b](regulations:regulation:A4b) ou [Regra A4b1](regulations:regulation:A4b1).
+        - 11f2c) Para investigar trapaça (ver [Regra 2k](regulations:regulation:2k)).
 - 11g) O Delegado da WCA deve garantir que cópias do Regulamento e das Orientações estejam disponíveis (p. ex. impressas, digitais ou acessíveis via internet) para consultar para quaisquer incidentes.
 - 11h) Um Delegado da WCA pode exigir que competidores em violação severa da [Regra 2k3](regulations:regulation:2k3) deixem o local da competição, considerando a gravidade da situação e o melhor caminho de ação possível. Se o competidor se recusar a fazer isso, ele pode enfrentar ação disciplinar na WCA.
 - 11i) Se for constatado que o quebra-cabeça de um competidor não foi embaralhado corretamente após a conclusão de sua resolução, as seguintes regras se aplicam:
    - 11i1) Nos seguintes casos, uma tentativa extra deve ser concedida para substituir a tentativa afetada. Se nenhuma tentativa extra for concedida, o resultado será considerado DNS:
         - 11i1a) O resultado individual é um recorde regional ou um recorde pessoal entre os 50 melhores competidores do ranking mundial.
-        - 11i1b) A média ou o mean do resultado faz parte de um recorde regional ou de um recorde pessoal entre os 50 melhores competidores do ranking mundial.
+        - 11i1b) A média em que o resultado faz parte é um recorde regional ou de um recorde pessoal entre os 50 melhores competidores do ranking mundial.
         - 11i1c) O resultado foi alcançado em uma rodada final de um Campeonato Nacional, Campeonato Continental ou Campeonato Mundial.
-        - 11i1d) O resultado foi alcançado resolvendo o quebra-cabeça em menos movimentos do que os limites definidos na Regra 4b3.
+        - 11i1d) O resultado foi alcançado resolvendo o quebra-cabeça em menos movimentos do que os limites definidos na [Regra 4b3](regulations:regulation:4b3).
         - 11i1e) Exceção: Para o Cubo 5x5x5, Cubo 6x6x6, Cubo 7x7x7, Megaminx e 3x3x3 Multi-Vendado, não é necessário conceder uma tentativa extra nas circunstâncias descritas acima.
-    - 11i2) Para todos os outros casos, o resultado pode permanecer. Exceção: o Delegado da WCA pode conceder uma tentativa extra a critério dele se acreditar que isso proporcionará um resultado significativamente mais justo (p. ex., o embaralhamento incorreto recebido foi extremamente fácil e o competidor alcançou um novo recorde pessoal, o embaralhamento incorreto impactou o pódio de um evento, ou o quebra-cabeça foi deliberadamente embaralhado incorretamente).
+    - 11i2) Para todos os outros casos, o resultado pode permanecer. Exceção: o Delegado da WCA pode conceder uma tentativa extra a critério dele se acreditar que isso proporcionará um resultado significativamente mais justo (p. ex., o embaralhamento incorreto recebido foi extremamente fácil e o competidor alcançou um novo recorde pessoal, o embaralhamento incorreto impactou o pódio de um evento, ou o quebra-cabeça foi embaralhado incorretamente de propósito).
         - 11i2a) Se uma tentativa extra resultar em um resultado significativamente mais justo, a tentativa original será considerada inválida (ver Regra 9l).
         - 11i2b) Se uma tentativa extra não puder ser concedida para um embaralhamento incorreto que resulte em um resultado significativamente injusto (por exemplo, porque o embaralhamento incorreto foi descoberto após a competição), o resultado será considerado DNS.
 
