@@ -154,7 +154,10 @@ Para ser mais informativa, cada Orientação é classificada com um dos seguinte
 - 11e1+) [LEMBRETE] A tentativa adicional precisa ser embaralhada usando uma sequência de embaralhamento não-modificada, gerada por um programa oficial de embaralhamento (ver [Regra 4f](regulations:regulation:4f), [Orientação 4f+](guidelines:guideline:4f+)).
 - 11e2+) [ADIÇÃO] Se uma tentativa adicional levar a outra tentativa adicional, o competidor deve fazer tentativas adicionais até que haja uma tentativa válida para substituir a tentativa original.
 - 11e2++) [EXEMPLO] Suponha que um competidor tem 5 tentativas numeradas regularmente, e a tentativa número 2 leve a várias tentativas adicionais. Ele deve fazer tentativas adicionais até que haja uma tentativa válida para substituir a de número 2. Caso posteriormente outra tentativa leve a tentativa(s) adicional(is), deve ser procedido da mesma forma que para a tentativa número 2.
-
+- 11f1+) [RECOMENDAÇÃO]  É recomendável que o Comitê de Regulamentação da WCA que seja consultado se a análise em câmera lenta ou quadro a quadro for necessária.
+- 11i1+) [RECOMENDAÇÃO] É recomendável que, aos competidores que se espera que atendam a esses critérios, tenham seus embaralhamentos verificados por um segundo embaralhador antes de serem enviados (ver Diretriz 4g+).
+- 11i2+) [RECOMENDAÇÃO] Se o Delegado da WCA não tiver certeza se o embaralhamento incorreto resultou em um resultado significativamente menos justo do que o embaralhamento original, é recomendável que uma tentativa extra provisória seja concedida.
+- 11i2++) [LEMBRETE] Embora resultados individuais alcançados em quebra-cabeças embaralhados incorretamente possam ser permitidos, o Delegado da WCA deve garantir que embaralhamentos incorretos não se tornem comuns.
 
 ## <article-12><notation><notaion> Artigo 12: Notação
 
